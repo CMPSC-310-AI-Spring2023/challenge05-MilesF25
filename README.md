@@ -13,19 +13,25 @@ Run through the guide at [RNN guide](https://www.tensorflow.org/guide/keras/rnn)
 
 1.   Give 1-2 sentence description of keras.
 
-TODO
+Keras is used to  build recurrent models without having to make difficult configuration choices.
 
 2.   Give a short explanation of the following:
 
 - `Embedding`
--  `Dropout` 
+Embedding is a process where the learned data is put into a variable
 
-TODO
+-  `Dropout` 
+Dropout is used to remove overfitting data. Overfitting is when the training data goes against the programs model. That can lead to the
+AI not working properly and giving weird results.
+
+
 
 ### Part 2: Unidirectional vs Bidirectional
 
 1.   Give 2-3 sentence explanation of how bidirectional RNNs are different from unidirectional RNNs.
 
+Bidirectional Rnns can help predict the next word in a sentence by looking at the other words surronding the current word. Unidirectional will only look
+at the words ahead.
 
 ### Part 3: Add code
 
