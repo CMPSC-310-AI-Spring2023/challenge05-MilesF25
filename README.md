@@ -37,4 +37,4 @@ at the words ahead.
 
 1.   Include the code from "Recurrent Neural Networks (RNN) with Keras" guide that you ran (must show output) as a Google Colab notebook in your challenge 5 repository.
 
-TODO
+Added.
